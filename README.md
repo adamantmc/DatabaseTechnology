@@ -1,5 +1,5 @@
 # DatabaseTechnology
-Project for Database Technology class.
+Project for Database Technology class. Partially descriped in dbtproj.h.
 
 We had to implement 4 algorithms that exist in a typical DBMS. These algorithms were:
 
