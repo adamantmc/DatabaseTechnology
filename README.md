@@ -21,10 +21,10 @@ Here are some benchmarks:
 |            4000            | 239030 (1.60GB) Valid Records: 24796769 | 161413 (1.08GB) Valid Records: 16749615 | 215.6s               | 113.5s               | 337.6s    | 237.4s                         | 1946s    |
 |            40000           |                   Same                  |                   Same                  | 158.8s               | 100.4s               | 288.5s    | 180.8s                         | 237.7s   |
 
-Algorithm implementations ins dbtproj.cpp.
-
-Functions related to hash join in hash.cpp.
-Functions related to merge join in merge.cpp.
-Functions to compare records based on a field in compare.cpp.
+Algorithm implementations in dbtproj.cpp. <br />
+Functions related to hash join in hash.cpp. <br />
+Functions related to merge join in merge.cpp. <br />
+Functions to compare records based on a field in compare.cpp. <br />
+Read and write operations in disk_io.cpp. <br />
 
 To compile, you have to add -std=c++11 in your compiler's options/flags you name it. 
